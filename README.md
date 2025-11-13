@@ -4,7 +4,7 @@ The code can be used for data preprocessing, transcript generation, and evaluati
 
 ## Datasets
 
-This code was developed using the following datasets:
+This code was developed for use with following datasets:
 
 -   [JASMIN](https://taalmaterialen.ivdnt.org/download/tstc-jasmin-spraakcorpus/)
 -   [Common Voice](https://commonvoice.mozilla.org/nl/datasets)
